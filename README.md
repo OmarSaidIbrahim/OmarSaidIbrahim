@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarsaidibrahim" alt="omarsaidibrahim" /></a> </p>
 
-- 🌱 I’m currently learning **Robotic Process Automation (RPA)**
+- 🌱 I’m currently learning **Robotic Process Automation (RPA)** & **Crypto Trading Bot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarSaidIbrahim?tab=repositories](https://github.com/OmarSaidIbrahim?tab=repositories)
 
