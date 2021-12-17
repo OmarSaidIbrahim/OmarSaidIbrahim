@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarSaidIbrahim?tab=repositories](https://github.com/OmarSaidIbrahim?tab=repositories)
 
-- 📫 How to reach me **omarsaidita@gmail.com**
+- 📫 Reach me at **omarsaidita@gmail.com**
 
 - ⚡ Fun fact **I develop automation because I am too lazy to do stuff. Also, I am good at Googling :)**
 
