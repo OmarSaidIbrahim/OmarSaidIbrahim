@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **omarsaidita@gmail.com**
 
-- ⚡ Fun fact **I develop automation because I am too lazy to do stuff. Also, I am good at Googling :)**
+- ⚡ Fun fact **I develop automations because I am too lazy to do stuff. Also, I am good at Googling :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
